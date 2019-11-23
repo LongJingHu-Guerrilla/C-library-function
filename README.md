@@ -61,7 +61,8 @@ void *bubble_sort(int *array, int length, bool order);
 #### quick_sort()函数 -快速排序
 
 ```c
-/* 快速排序
+/*
+ * 快速排序
  * 参数：*array -数组指针
  *       left -第一个数组元素的下标
  *       right -最后一个数组元素的下标
